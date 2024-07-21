@@ -1,0 +1,110 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "editor.renderWhitespace": "all",
+    
+    "editor.suggestSelection": "first",
+    "workbench.colorCustomizations": {
+        
+        "editor.selectionBackground": "#00ffea3f",
+        "editor.selectionForeground": "#fff",
+        "editor.selectionHighlightBackground": "#00ff951c"
+    },
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.lineHeight": 2.6,
+    "files.autoSaveDelay": 1000,
+    "editor.cursorSmoothCaretAnimation": "off",
+    "tabnine.experimentalAutoImports": true,
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.scrollbar.horizontalScrollbarSize": 20,
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "git.autofetch": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "gitlens.defaultDateFormat": null,
+    "[blade]": {
+        "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.profiles.windows": {
+    
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        }
+    },
+    "phpformatter.notifications": false,
+    "editor.unicodeHighlight.includeStrings": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "Wscats.eno"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.tabWidth": 4,
+    "cSpell.userWords": [
+        "maxiter",
+        "nuxt",
+        "zarinpal"
+    ],
+    "prettier.printWidth": 5000,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "terminal.integrated.fontSize": 16,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.fontSize": 22,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "prettier.singleAttributePerLine": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.languageSettings": [
+        
+    ],
+    "workbench.editor.empty.hint": "hidden",
+    "window.confirmBeforeClose": "keyboardOnly",
+    "editor.defaultFoldingRangeProvider": "vscode.php-language-features",
+    "files.autoSave": "afterDelay",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.stickyScroll.enabled": false,
+    "window.commandCenter": false,
+    "editor.guides.bracketPairs": "active",
+    "editor.cursorBlinking": "phase",
+    "window.customTitleBarVisibility": "windowed",
+    "files.associations": {
+        "*.md": "markdown"
+    },
+    "workbench.colorTheme": "Better Solarized Dark Italics",
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "window.zoomLevel": 1
+}
